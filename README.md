@@ -2,6 +2,8 @@
 
 The Composition of ZeroCup 2023, developed by "写这数据结构写的精神病一触即发了"
 
+你可以在meorin.top/ZeroCup-2023 中预览本项目
+
 ## Project Setup
 
 ```sh
